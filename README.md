@@ -38,7 +38,5 @@ An advanced online translator web application with multiple language support, vo
     ```
 3. Open `index.html` in your web browser.
 
-## License
-
-MIT License
+Bowei Tombri
 
